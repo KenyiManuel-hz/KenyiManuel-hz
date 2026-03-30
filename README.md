@@ -1,8 +1,8 @@
 ## Hola, Kenyi Aqui 👾
 
-- 🎓 Estudante de Engenharia de Software
-- 🔭 Front-End / Back-End Basico
-- 🌱 Aprendendo Linguagem Java
+- 🎓 Futuro Engenheiro de Software
+- 🔭 Back-End / Front-End Basico
+- 🌱 Programando com Java
 
 <picture>
   <source
